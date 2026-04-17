@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mayur Panchal
+## Hi 👋, I'm Mayur Panchal
 
-# Data Analyst | Data Science | AI/ML
+## Data Analyst | Data Science | AI/ML
 
 
 
